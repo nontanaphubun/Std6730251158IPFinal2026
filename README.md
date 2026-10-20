@@ -1,7 +1,7 @@
 # Final Exam: Internet Programming (2026)
 ## Topic: HR Manager & Salary Analytics System
 **Student ID:** std6730251158  
-**Repository:** [IP-Final-Exam (Std6730251158IPFinal2026)](https://github.com/peerakornn-boop/IP-Final-Exam)  
+**Repository:** [Std6730251158IPFinal2026](https://github.com/nontanaphubun/Std6730251158IPFinal2026)  
 **Database (phpMyAdmin):** [http://119.59.102.161/nindamdb/](http://119.59.102.161/nindamdb/) (`ip_std6730251158`)
 
 ---
